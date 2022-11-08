@@ -228,3 +228,45 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout to LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/WiFi bit/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main e4c520f] Updating open source files.
+ 1 file changed, 43 insertions(+)
+https://github.com/SolderedElectronics/WiFi-bit-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-485 Transceiver breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART-FT232L converter board/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/SARA-G350 GSM module/OUTPUTS/V2.0.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RFID reader 125kHz/OUTPUTS/V2.1.2: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/GSM communications SIM800 breakout/OUTPUTS/V2.0.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/NB-IoT communications SIM7020 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/GNSS breakout L86-M33/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CONNECT programmer/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/RS-232 Transceiver breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+ - Wrong number of zips 0
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/LIN Transceiver NCV7329 MASTER breakout to LIN-Transceiver-NCV7329-MASTER-breakout-hardware-design
